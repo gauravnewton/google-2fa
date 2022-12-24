@@ -4,5 +4,5 @@
 3. Visit http://localhost:8080/swagger-ui.html#
 
 **USERS TO USE**
-1. alice@gmail.com
-2. kek@kek.com
+1. gaurav.mutee@gmail.com
+2. gaurav.kumar3@publicissapient.com
